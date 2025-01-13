@@ -48,7 +48,7 @@ We express our gratitude to our project mentors for their guidance and support t
 ### Directory Structure
 - **/Reports**: Project documentation and detailed reports.
 - **/Altium Files**: Schematics and PCB Files.
-- **/Solidworks Designs**: Enclosure design files.
+- **/SolidWorks Designs**: Enclosure design files.
 - **/Simulations**: Simulation files and results.
 
 ### How to Use
